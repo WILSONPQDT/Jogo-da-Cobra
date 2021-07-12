@@ -1,0 +1,9 @@
+body {
+    height :  95 vh ;
+    width :  95 vw ;
+    display : flex;
+    justify-content : center;
+    align-items : center;
+     flex-direction: column;
+    color: chartreuse ( 52 ,  165 ,  52 );
+}
